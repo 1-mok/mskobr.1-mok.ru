@@ -35,8 +35,6 @@ gulp.task('download:tilda', () => {
 
             'reception/zachisleniye.html': 'http://main.mskobr.1-mok.ru/reception/zachisleniye',
 
-            'main.html': 'http://main.mskobr.1-mok.ru/main',
-
             'school/pervoklassnik.html': 'http://main.mskobr.1-mok.ru/school/pervoklassnik',
 
             'school/pro.html': 'http://main.mskobr.1-mok.ru/school/pro',
